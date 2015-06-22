@@ -2,7 +2,7 @@
 
 Common data structures required for Data Warehouse reporting
 
-## How to use RippleCharts
+## How to use files
 
 Create tables
 import data
